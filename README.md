@@ -1,5 +1,7 @@
 # P-Wave-RFC
 Exploring Random Forest Classification using noise wave forms and p-wave wave forms. Work product for EEW.
+
+View the notebook [here](https://github.com/sjsu-earthquake-early-warning/P-Wave-RFC/blob/master/eew-rfc.ipynb).
 ## Usage
 ### Prerequisites
 #### Dependencies
@@ -16,7 +18,7 @@ Exploring Random Forest Classification using noise wave forms and p-wave wave fo
 [Download the waveform dataset (scsn_p_2000_2017_6sec_0.5r_pick_train.hdf5).](http://scedc.caltech.edu/research-tools/deeplearning.html)
 ### Viewing the notebook.
 1. Run signal-noise-splitter.py after placing the data in '/data' to split the waveforms.
-2. Open eew-rfc.ipynb using a jupyter.
+2. Open eew-rfc.ipynb using jupyter.
 3. Run the notebook.
 
 **Checkpoints have been included to show the notebook's contents without needing to run it**
